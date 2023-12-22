@@ -1,9 +1,15 @@
 *{
     background-color:rgb(34, 40, 49);
-    color: rgb(238, 238, 238);
+    color: rgb(8, 217, 214);
+    font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
+
 h1{
     text-align: center;
+}
 
+.box{
+    text-align: center;
+    
 }
